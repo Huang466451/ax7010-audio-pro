@@ -1,5 +1,7 @@
 # AX7010 AUDIO PRO：四麦定向拾音增强版
 
+v1.1.0
+
 面向 AX7010 / xc7z010clg400-1，Vivado / Vitis 2026.1。独立于已上板验证的 `../ax7010-audio-fourmic`，保留原版作为回退。当前语音滤波版已完成仿真、实现和上板控制／10 秒录音验证；用户已确认频带处理的噪声效果更好；另新增 PS 离线 AI 推理与录音试听工具。详细状态见 `build/verification.md`，源代码与产物哈希见 `build/manifest.json`。
 
 
