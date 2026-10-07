@@ -19,6 +19,11 @@
 
 **本次更新还加入了AGENTS.md文档，这是agent应该遵守的约定。同时新增了整个项目的逻辑梳理文件[PROJECT_LOGIC.md](C:/ax7010_audio_pro/ax7010-audio-pro/PROJECT_LOGIC.md)，这不应该是项目最后想要的，但是可以看一看。**
 
+## 📚 项目文档
+
+- [AGENTS.md](./AGENTS.md)
+- [PROJECT_LOGIC.md](./PROJECT_LOGIC.md)
+
 **下方的历史上板记录对应旧发布固件。**
 
 ## 新增功能
